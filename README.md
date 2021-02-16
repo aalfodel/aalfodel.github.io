@@ -1,3 +1,3 @@
 # Personal landing page
 
-Template :[startbootstrap-resume](https://github.com/startbootstrap/startbootstrap-resume)
+Template: [startbootstrap-resume](https://github.com/startbootstrap/startbootstrap-resume)
